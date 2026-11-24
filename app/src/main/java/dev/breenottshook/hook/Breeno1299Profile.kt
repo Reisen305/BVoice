@@ -9,7 +9,7 @@ class Breeno1299Profile : VersionProfile {
                 "D0",
                 listOf(
                     "java.lang.String",
-                    "km.w",
+                    "qq.w",
                     "android.os.Bundle",
                     "com.heytap.speechassist.sdk.TTSEngine\$SlpTtsCallBack"
                 ),
